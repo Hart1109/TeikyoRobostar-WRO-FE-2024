@@ -1,9 +1,8 @@
 Motor Overview
 ===
 SPIKE Prime M angular motor
-![S__156745730_0](https://github.com/user-attachments/assets/1914cd01-6109-4dd1-b7fc-1daae2640007)
+<img src="![S__156745732_0](https://github.com/user-attachments/assets/c7f36bd4-c839-4921-8e94-0f57235c2635)" width="40">
 
 SPIKE Prime L angular motor
-![Uploading S__156745732_0.jpg…]()
 
 
