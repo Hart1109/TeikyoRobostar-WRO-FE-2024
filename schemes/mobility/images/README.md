@@ -47,5 +47,5 @@ The steering mechanism of the front wheels is controlled by a single axis to inc
 
 <img src="https://github.com/user-attachments/assets/958800dc-e9b3-40af-af6e-9ccca911bb80" width="40%"> <img src="https://github.com/user-attachments/assets/bd08f922-3c61-40c0-bbdf-5b9dbd5a63fd" width="40%">
 
-For a detailed explanation of the design, please click here.
+For a detailed explanation of the design, please click [here](https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/body%20information/Steering%20wheel%20assembly.pptx).
 
