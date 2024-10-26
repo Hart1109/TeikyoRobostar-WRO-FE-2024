@@ -42,10 +42,17 @@ The front wheels use M motors for instant steering control, while the rear wheel
 
 ---
 
-## Operation of front and rear wheels
+## Front wheel operation
 The steering mechanism of the front wheels is controlled by a single axis to increase the drive range and reduce the width between wheels to accommodate sudden steering changes.
 
 <img src="https://github.com/user-attachments/assets/958800dc-e9b3-40af-af6e-9ccca911bb80" width="40%"> <img src="https://github.com/user-attachments/assets/bd08f922-3c61-40c0-bbdf-5b9dbd5a63fd" width="40%">
 
 For a detailed explanation of the design, please click [here](https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/body%20information/Steering%20wheel%20assembly.pptx).
 
+## Rear wheel operation
+
+Differential gears are used for the rear wheel drive mechanism. The function of this component is to allow for the speed difference between the inner and outer wheels and distribute the output to both wheels, sending more power to the less loaded tire.
+
+<img src="https://github.com/user-attachments/assets/283928fe-7b5d-4fbe-aee9-ac663344da60" width="40%"> <img src="https://github.com/user-attachments/assets/86642ce5-f85e-44c9-b939-74db68aa2e1c" width="40%">
+
+This mechanism enables smooth obstacle avoidance and cornering.
