@@ -38,3 +38,14 @@
 Easy to assemble and reassemble, making it suitable for fine-tuning of robots.In addition, stable driving is achieved by using the M motor for fast response and the L motor for high output and high torque for both the front and rear wheels.It is a reliable and proven motor that was used by the winning team of the WRO 2023 World Championships.
 
 ### Implementation Methods
+The front wheels use M motors for instant steering control, while the rear wheels use high-power L motors to shorten the time.
+
+---
+
+## Operation of front and rear wheels
+The steering mechanism of the front wheels is controlled by a single axis to increase the drive range and reduce the width between wheels to accommodate sudden steering changes.
+
+<img src="https://github.com/user-attachments/assets/958800dc-e9b3-40af-af6e-9ccca911bb80" width="40%"> <img src="https://github.com/user-attachments/assets/bd08f922-3c61-40c0-bbdf-5b9dbd5a63fd" width="40%">
+
+For a detailed explanation of the design, please click here.
+
