@@ -1,4 +1,6 @@
-# Mobility Management
+
+#  Mobility Management
+
 ## Motor Overview
 
 ### Selected motor
@@ -32,6 +34,7 @@
 | Maximum Efficiency | Torque: 8 Ncm <br> Speed: 135 RPM ± 15% <br> Current Consumption: 430 mA ± 15% |
 | Stall | Torque: 25 Ncm <br> Speed: 0 RPM <br> Current Consumption: 1400 mA ± 15% |
 
+### Reasons for choice
+Easy to assemble and reassemble, making it suitable for fine-tuning of robots.In addition, stable driving is achieved by using the M motor for fast response and the L motor for high output and high torque for both the front and rear wheels.It is a reliable and proven motor that was used by the winning team of the WRO 2023 World Championships.
 
-
-
+### Implementation Methods
