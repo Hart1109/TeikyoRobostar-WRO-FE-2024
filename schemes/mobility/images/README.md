@@ -41,7 +41,9 @@ Easy to assemble and reassemble, making it suitable for fine-tuning of robots.In
 The front wheels use M motors for instant steering control, while the rear wheels use high-power L motors to shorten the time.
 
 ---
+## Structure of car body
 
+---
 ## Front wheel operation
 The steering mechanism of the front wheels is controlled by a single axis to increase the drive range and reduce the width between wheels to accommodate sudden steering changes.
 
