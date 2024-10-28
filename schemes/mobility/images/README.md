@@ -41,7 +41,10 @@ Easy to assemble and reassemble, making it suitable for fine-tuning of robots.In
 The front wheels use M motors for instant steering control, while the rear wheels use high-power L motors to shorten the time.
 
 ---
-## Structure of car body
+## Brief explanation of car body structure
+The base of the robot is designed around the LEGO Education Spike Prime, and the robot is connected to a Raspberry Pi4, ultrasonic sensor, camera, cooling fan, mobile battery, and battery box.In addition, the 3D model was used to fix the camera to prevent image distortion while the robot is running, and two ultrasonic sensors were installed on either side of the robot to keep it parallel to the wall at all times.
+
+
 
 ---
 ## Front wheel operation
