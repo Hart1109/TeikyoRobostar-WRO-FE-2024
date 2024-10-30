@@ -7,7 +7,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 ## Member
 * Ryota Kanda (Born on July 12 ,2005)
 * Yusei Owa (Born on March 29 ,2006)
-* Yuiti Hasuda
+* Yuichi Hasuda (coach)
 ## Content
 
 * `t-photos` contains 2 photos of the team (an official one and one funny photo with all team members)
