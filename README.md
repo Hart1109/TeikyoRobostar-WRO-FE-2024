@@ -5,8 +5,8 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ---
 ## Member
-* Ryota Kanda (Born on July 12 , 2005)
-* Yusei Owa (Born on March 29 , 2006)
+* Ryota Kanda (Born on July 12 ,2005)
+* Yusei Owa (Born on March 29 ,2006)
 * Yuiti Hasuda
 ## Content
 
