@@ -20,7 +20,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 <img src="https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/t-photos/photo.funny.JPG" width="60%">
-Kanda is on the left and Owa is on the right.
+Standing on the left is Kanda and on the right is Owa.
 They are both students at the Department of Information Electronics, Faculty of Science and Technology, Teikyo University in Japan.
 They are working on a robot as a club activity and won the first prize at a competition in Japan.
 
