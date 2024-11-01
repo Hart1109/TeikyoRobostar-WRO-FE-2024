@@ -24,6 +24,8 @@ The child on the left is Kanda and the one on the right is Owa.
 They are both students at the Department of Information Electronics, Faculty of Science and Technology, Teikyo University in Japan.
 They are working on a robot as a club activity and won the first prize at a competition in Japan.
 
+
+---
 Next, we describe the operation and programming environment of the freestanding robot.
 
 
