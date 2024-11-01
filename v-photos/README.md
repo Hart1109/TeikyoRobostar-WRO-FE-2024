@@ -8,7 +8,7 @@ Vehicle's photos
 ↑On the left.
 <img src="https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/v-photos/right.jpg" width="60%">
 ↑Right side.
-<img src="https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/v-photos/under.jpg" width="60%">
+<img src="https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/v-photos/bottom.jpg" width="60%">
 ↑Bottom side.
 <img src="https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/v-photos/up.jpg" width="60%">
 ↑Upper side.
