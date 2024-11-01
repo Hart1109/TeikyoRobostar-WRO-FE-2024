@@ -58,7 +58,7 @@ For a detailed explanation of the design, please click [here](https://github.com
 
 Differential gears are used for the rear wheel drive mechanism. The function of this component is to allow for the speed difference between the inner and outer wheels and distribute the output to both wheels, sending more power to the less loaded tire.
 
-<img src="https://github.com/user-attachments/assets/283928fe-7b5d-4fbe-aee9-ac663344da60" width="40%"> <img src="https://github.com/user-attachments/assets/86642ce5-f85e-44c9-b939-74db68aa2e1c" width="40%">
+<img src="https://github.com/user-attachments/assets/283928fe-7b5d-4fbe-aee9-ac663344da60" width="40%"> <img src="https://github.com/user-attachments/assets/86642ce5-f85e-44c9-b939-74db68aa2e1c" width="30%">
 
 This mechanism enables smooth obstacle avoidance and cornering.
 
