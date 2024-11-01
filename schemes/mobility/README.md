@@ -66,4 +66,8 @@ This mechanism enables smooth obstacle avoidance and cornering.
 
 <img src="https://github.com/user-attachments/assets/9047ef77-e4df-469d-b5cf-bab34d28aab1" width="40%"> <img src="https://github.com/user-attachments/assets/42b3b964-5741-4c37-821a-ea41e05218da" width="32.3%">
 
+This component is used to secure the Raspberry Pi Camera.
+ 
+<img src="https://github.com/user-attachments/assets/01e89ff1-d887-44af-b72c-defe6bc9d7c9" width="40%"> <img src="https://github.com/user-attachments/assets/b71c8bf3-c8c7-4383-b966-d268f1d41ea7" width="32.3%">
+
 
