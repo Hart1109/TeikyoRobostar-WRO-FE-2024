@@ -10,6 +10,5 @@ Vehicle's photos
 ↑Right side.
 <img src="https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/v-photos/under.jpg" width="60%">
 ↑Bottom side.
-<img src="" width="60%">
+<img src="https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/v-photos/up.jpg" width="60%">
 ↑Upper side.
-This directory must contain 6 photos of the vehicle (from every side, from top and bottom)
