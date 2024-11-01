@@ -29,7 +29,6 @@ They are working on a robot as a club activity and won the first prize at a comp
 Next, we describe the operation and programming environment of the freestanding robot.
 First, download RealVNC Viewer from the following site
 https://www.realvnc.com/en/connect/download/viewer/
-
-* After downloading, find out the IP address of the aircraft and connect to it.
+ After downloading, find out the IP address of the aircraft and connect to it.
 
 
