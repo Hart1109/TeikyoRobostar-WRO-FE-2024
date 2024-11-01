@@ -19,5 +19,9 @@ This repository contains engineering materials of a self-driven vehicle's model 
 * `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
 
 ## Introduction
+<img src="https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/t-photos/photo.funny.JPG" width="60%">
+The child on the left is Kanda and the one on the right is Owa.
+They are both students at the Department of Information Electronics, Faculty of Science and Technology, Teikyo University in Japan.
+They are working on a robot as a club activity and won the first prize at a competition in Japan.
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
+
