@@ -30,6 +30,6 @@ Next, we describe the operation and programming environment of the freestanding 
 First, download RealVNC Viewer from the following site
 https://www.realvnc.com/en/connect/download/viewer/
  
- After downloading, find out the IP address of the car and connect to it.
+ After downloading, find out the IP address of the machine and connect to it.
 
 
