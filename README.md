@@ -20,7 +20,9 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 <img src="https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/t-photos/photo.funny.JPG" width="60%">
-Standing on the left is Kanda and on the right is Owa.
+Ryota Kanda:Robot design・・・Left Side
+
+Ryota is a first-year student at Teikyo University and a member of the robotics club RoboLab. He is in charge of designing robots in the team and works hard practicing and designing every day. He is studying robot technology with the goal of becoming an engineer in the future. His hobbies are tea ceremony and origami.
 They are both students at the Department of Information Electronics, Faculty of Science and Technology, Teikyo University in Japan.
 They are working on a robot as a club activity and won the first prize at a competition in Japan.
 
