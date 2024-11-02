@@ -23,6 +23,11 @@ This repository contains engineering materials of a self-driven vehicle's model 
 Ryota Kanda:Robot design・・・Left Side
 
 Ryota is a first-year student at Teikyo University and a member of the robotics club RoboLab. He is in charge of designing robots in the team and works hard practicing and designing every day. He is studying robot technology with the goal of becoming an engineer in the future. His hobbies are tea ceremony and origami.
+
+Yusei Owa:Programmer・・・Right Side
+
+Yusei is a first-year student at Teikyo University and a member of the robotics club RoboLab. He is in charge of programming in the team. He uses the knowledge he learned in his university classes to design and improve programs. He is currently studying linux and python with the goal of becoming an engineer in the future. After school, he enjoys reading books.
+
 They are both students at the Department of Information Electronics, Faculty of Science and Technology, Teikyo University in Japan.
 They are working on a robot as a club activity and won the first prize at a competition in Japan.
 
