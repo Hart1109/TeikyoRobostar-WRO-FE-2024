@@ -28,10 +28,6 @@ Yusei Owa:Programmer・・・Right Side
 
 Yusei is a first-year student at Teikyo University and a member of the robotics club RoboLab. He is in charge of programming in the team. He uses the knowledge he learned in his university classes to design and improve programs. He is currently studying linux and python with the goal of becoming an engineer in the future. After school, he enjoys reading books.
 
-They are both students at the Department of Information Electronics, Faculty of Science and Technology, Teikyo University in Japan.
-They are working on a robot as a club activity and won the first prize at a competition in Japan.
-
-
 ---
 Next, we describe the operation and programming environment of the freestanding robot.
 First, download RealVNC Viewer from the following site
