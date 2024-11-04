@@ -20,12 +20,11 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 <img src="https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/t-photos/photo.funny.JPG" width="60%">
-Ryota Kanda:Robot design・・・Left Side  
 
+**Ryota Kanda:Robot design**・・・Left Side  
 Ryota is a first-year student at Teikyo University and a member of the robotics club RoboLab. He is in charge of designing robots in the team and works hard practicing and designing every day. He is studying robot technology with the goal of becoming an engineer in the future. His hobbies are tea ceremony and origami.
 
-Yusei Owa:Programmer・・・Right Side  
-
+**Yusei Owa**:Programmer・・・Right Side  
 Yusei is a first-year student at Teikyo University and a member of the robotics club RoboLab. He is in charge of programming in the team. He uses the knowledge he learned in his university classes to design and improve programs. He is currently studying linux and python with the goal of becoming an engineer in the future. After school, he enjoys reading books.
 
 ---
