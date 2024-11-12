@@ -34,7 +34,7 @@ def setMotor():
     motorFront.set_default_speed(-pw)                  #Setting the motor speed of the front wheels
 
 def run(pw):
-    motorBack.start(pw)#Start speed setting
+    motorBack.start(pw)                                #Start speed setting
 
 def stop():
     motorBack.stop()                                    #Stops rear wheel movement
