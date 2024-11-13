@@ -20,10 +20,10 @@
 | Stall | Torque: 25 Ncm <br> Speed: 0 RPM <br> Current Consumption: 1400 mA ± 15% |
 
 ### Reasons for choice
-The use of high-torque motors for the front and rear wheels is expected to shorten the competition time.
+Easy to assemble and reassemble, making it suitable for fine-tuning of robots.In addition, the L motor for high output and high torque for both the front and rear wheels. It is a reliable and proven motor that was used by the winning team of tha WRO 2023 World Championships.
 
 ### Implementation Methods
-The front wheels use M motors for instant steering control, while the rear wheels use high-power L motors to shorten the time.
+The use of high-torque motors for the front and rear wheels is expected to shorten the competition time.
 
 ---
 ## Brief explanation of car body structure
