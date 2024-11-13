@@ -33,7 +33,7 @@ The base of the robot is designed around the LEGO Education Spike Prime, and the
 
 ---
 ## Front wheel operation
-The steering mechanism of the front wheels is controlled by a single axis to increase the drive range and reduce the width between wheels to accommodate sudden steering changes.
+Increasing the distance between the wheels of the vehicle has the advantage of making the steering more agile, allowing for fine angle adjustment and easier corner turning. For rough control of the wheels, the angle of the wheels is changed by turning the motor.
 
 <img src="https://github.com/user-attachments/assets/958800dc-e9b3-40af-af6e-9ccca911bb80" width="40%"> <img src="https://github.com/user-attachments/assets/bd08f922-3c61-40c0-bbdf-5b9dbd5a63fd" width="40%">
 
