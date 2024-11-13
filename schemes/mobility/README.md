@@ -39,7 +39,7 @@ Increasing the distance between the wheels of the vehicle has the advantage of m
 <img src="https://github.com/user-attachments/assets/69ac39ab-4336-4025-8576-68c0d6a789da" width="80%">
 
 
-For a detailed explanation of the design, please click [here](https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/body%20information/Steering%20wheel%20assembly.pptx).
+For a detailed explanation of the design, please click [here](https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/body%20information/Steering%20wheel%20assembly.pdf).
 
 ## Rear wheel operation
 
