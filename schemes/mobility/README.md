@@ -36,6 +36,7 @@ The base of the robot is designed around the LEGO Education Spike Prime, and the
 Increasing the distance between the wheels of the vehicle has the advantage of making the steering more agile, allowing for fine angle adjustment and easier corner turning. For rough control of the wheels, the angle of the wheels is changed by turning the motor.
 
 <img src="https://github.com/user-attachments/assets/6f9f1256-ed30-45a7-9028-a625afa71738" width="80%">
+<img src="https://github.com/user-attachments/assets/69ac39ab-4336-4025-8576-68c0d6a789da" width="80%">
 
 
 For a detailed explanation of the design, please click [here](https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/body%20information/Steering%20wheel%20assembly.pptx).
