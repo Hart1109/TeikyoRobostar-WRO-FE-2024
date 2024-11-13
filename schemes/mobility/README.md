@@ -35,7 +35,7 @@ The base of the robot is designed around the LEGO Education Spike Prime, and the
 ## Front wheel operation
 Increasing the distance between the wheels of the vehicle has the advantage of making the steering more agile, allowing for fine angle adjustment and easier corner turning. For rough control of the wheels, the angle of the wheels is changed by turning the motor.
 
-<img src="https://github.com/user-attachments/assets/6f9f1256-ed30-45a7-9028-a625afa71738" width="100%">
+<img src="https://github.com/user-attachments/assets/6f9f1256-ed30-45a7-9028-a625afa71738" width="80%">
 
 
 For a detailed explanation of the design, please click [here](https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/body%20information/Steering%20wheel%20assembly.pptx).
@@ -44,7 +44,7 @@ For a detailed explanation of the design, please click [here](https://github.com
 
 Differential gears are used for the rear wheel drive mechanism. The function of this component is to allow for the speed difference between the inner and outer wheels and distribute the output to both wheels, sending more power to the less loaded tire.
 
-<img src="https://github.com/user-attachments/assets/160e2bfe-47aa-4d1a-8a16-add7da2ee733" width="100%">
+<img src="https://github.com/user-attachments/assets/160e2bfe-47aa-4d1a-8a16-add7da2ee733" width="80%">
 
 
 This mechanism enables smooth obstacle avoidance and cornering.
