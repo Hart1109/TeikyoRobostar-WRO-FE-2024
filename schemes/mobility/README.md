@@ -53,5 +53,6 @@ This mechanism enables smooth obstacle avoidance and cornering.
 
 ## 3Dmodels（camera mount）
 
-<img src="https://github.com/user-attachments/assets/0a22118f-7ee8-48ca-98de-bd604f6a1db9" width="100%">
+<img src="https://github.com/user-attachments/assets/0a22118f-7ee8-48ca-98de-bd604f6a1db9" width="80%">
+
 This component is used to secure the Raspberry Pi Camera.
