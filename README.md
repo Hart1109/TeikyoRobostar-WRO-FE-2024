@@ -17,7 +17,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 * `src` contains code of control software for all components which were programmed to participate in the competition
 * `models` is for the files for models used by 3D printers, laser cutting machines and CNC machines to produce the vehicle elements.
 * `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc.
-* 
+
 ## Introduction
 <img src="https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024/blob/main/t-photos/photo.funny.JPG" width="60%">
 
